@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\bin\Debug\Semantico analizador.exe.config
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\bin\Debug\Semantico analizador.exe
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\bin\Debug\Semantico analizador.pdb
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\obj\Debug\Semantico analizador.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\obj\Debug\Semantico_analizador.First.resources
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\obj\Debug\Semantico_analizador.Properties.Resources.resources
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\obj\Debug\Semantico analizador.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\obj\Debug\Semantico analizador.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\obj\Debug\Semantico analizador.exe
+C:\Users\user\source\repos\Semantico analizador\Semantico analizador\obj\Debug\Semantico analizador.pdb
